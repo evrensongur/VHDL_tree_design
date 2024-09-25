@@ -1,0 +1,1 @@
+I designed and implemented a Wallace Tree multiplier using VHDL. The design aims to efficiently accelerate partial product layers to enhance performance in digital signal processing and hardware acceleration applications.
